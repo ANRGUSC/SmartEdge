@@ -8,4 +8,4 @@ This work has been accepted into [BIoT 2018](http://cse.stfx.ca/~blockchain2018/
 
 ## License
 
-SmartEdge is made available under a permissive license - please see [LICENSE.md](LICENSE.md) for details.
+SmartEdge is made available under a permissive license - please see [LICENSE](LICENSE) for details.
