@@ -1,0 +1,7 @@
+Edge computing has emerged as an effective offloadingstrategy for constrained devices. 
+It enables low-capabilitydevices to leverage nearby resources for assistance withcomputationally-intensive tasks. 
+We envision a future where Internet of Things (IoT) devices may autonomously transact with other more powerful 
+devices to request such offloading services. We believe blockchain-based technologies can help
+facilitate this process by tracking usage and managing pay-ments. In this work we introduce SmartEdge, 
+an Ethereum-based smart contract for edge computing and show that it is alow-cost, low-overhead tool 
+for compute-resource management
